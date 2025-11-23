@@ -1,0 +1,7 @@
+transformers>=4.30
+gradio>=3.45
+sentence-transformers>=2.2
+faiss-cpu
+flask
+pyngrok
+torch
