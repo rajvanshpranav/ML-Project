@@ -1,4 +1,4 @@
-# ADK Agent — GitHub Project (Converted)
+# ADK Agent — GitHub Project
 
 This repository is a GitHub-ready conversion of the Kaggle notebook **ADK Agent.ipynb**.
 
